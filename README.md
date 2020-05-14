@@ -1,2 +1,3 @@
 # ucode
-interesting projects that were been made during the learning course in ucode
+the game that were being made during the course in ucode
+
