@@ -1,3 +1,3 @@
 # ucode
-the game that were being made during the course in ucode
+the game that was being made during the course in ucode
 
